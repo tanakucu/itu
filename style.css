@@ -114,6 +114,28 @@ section{
 .sectiond{
     background-image: url('sectiond.webp')
 }
+.hamburger {
+  position: fixed;
+  top: 40px;
+  right: 20px;
+  z-index: 10;
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  background: none;
+  border: none;
+}
+
+.hamburger-top,
+.hamburger-middle,
+.hamburger-bottom {
+  position: absolute;
+  width: 20px;
+  height: 2px;
+  top: 0;
+  left: 0;
+  background: #fff;
+}
 .btn{
     position: relative;
     display: inline-block;
@@ -180,4 +202,5 @@ footer ul li a:hover{
     .section-inner-center h3 {
       font-size: 50px;
     }
+  
  

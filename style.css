@@ -91,16 +91,16 @@ section{
 }
 
 .sectiona{
-    background-image: url('../sectiona.webp')
+    background-image: url('sectiona.webp')
 }
 .sectionb{
-    background-image: url('/sectionb.webp')
+    background-image: url('sectionb.webp')
 }
 .sectionc{
-    background-image: url('/sectionc.webp')
+    background-image: url('sectionc.webp')
 }
 .sectiond{
-    background-image: url('/sectiond.webp')
+    background-image: url('sectiond.webp')
 }
 .btn{
     position: relative;

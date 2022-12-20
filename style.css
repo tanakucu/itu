@@ -135,6 +135,14 @@ section{
   top: 0;
   left: 0;
   background: #fff;
+  transition: all 0.5s;
+}
+.hamburger-middle {
+  transform: translateY(5px);
+}
+
+.hamburger-bottom {
+  transform: translateY(10px);
 }
 .btn{
     position: relative;
